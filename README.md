@@ -74,7 +74,7 @@ Open http://localhost:5103 to view it in your browser.
 
 
 Contact
-For any inquiries or feedback, please contact Krishna Yadav at krixna2056@example.com.
+For any inquiries or feedback, please contact Krishna Yadav at krixna2056@gmail.com.
 
 
 
