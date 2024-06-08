@@ -46,23 +46,23 @@ To run this project locally, follow these steps:
 Clone the repository
 
 sh
+
 Copy code
 git clone https://github.com/KrishnaYadav7/KrishnaFoodStore.git
 Navigate to the project directory
 
 sh
+
 Copy code
+
+
 cd frontend
-Install dependencies
 
-sh
-Copy code
+
 npm install
-Start the development server
 
-sh
-Copy code
 npm run dev
+
 Open http://localhost:5103 to view it in your browser.
 
 
